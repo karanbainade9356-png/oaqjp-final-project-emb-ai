@@ -1,4 +1,4 @@
-# Emotion Detector - Final Project
+# Final Project
 
 ## Project Overview
 This is an **AI-based Emotion Detection** web application built using **Python**, **Flask**, and the **Watson NLP Library**. The application analyzes user-provided text and detects emotions such as **anger**, **disgust**, **fear**, **joy**, and **sadness**, returning the dominant emotion.
